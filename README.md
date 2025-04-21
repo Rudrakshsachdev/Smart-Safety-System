@@ -41,3 +41,61 @@ An Arduino-based safety system designed to detect **gas leaks** and **flames**, 
    - Serial Monitor also logs the event
 
 ---
+
+<b> Circuit Diagram</b>
+![Circuit Diagram](images/Circuit_diagram.png)
+
+---
+
+<b> Prototype Image</b>
+![Prototype](images/Prototype_IMG1.png)
+![Prototype](images/Prototype_IMG2.png)
+
+---
+
+
+## 💻 How to Upload Code
+
+1. Open **Arduino IDE**
+2. Select your board: *Arduino Uno*
+3. Go to `File > Open` and select `smart_safety_system.ino`
+4. Click **Upload**
+5. Open **Serial Monitor** to see output
+
+---
+
+## 📱 Bluetooth Setup
+
+1. Pair phone with **HC-05** (default password: `1234` or `0000`)
+2. Use any app like **Serial Bluetooth Terminal**
+3. Alerts will show up automatically when triggered
+
+---
+
+## 🧪 Testing Instructions
+
+- ✅ **Gas**: Use deodorant, perfume, or smoke near MQ-135
+- ✅ **Flame**: Use a lighter (carefully) near the flame sensor
+- ✅ **Serial Monitor**: See alerts in real-time
+- ✅ **OLED Display**: Confirms detection visually
+- ✅ **Buzzer**: Beeps if danger is detected
+
+---
+
+## 📈 Future Improvements
+
+- 🌐 Add IoT support using ESP8266
+- 📲 Custom Android App using MIT App Inventor
+- 🔋 Battery-powered compact design
+- 💾 Add SD card module for data logging
+
+---
+
+## 👨‍💻 Author
+
+**Rudraksh Sachdeva**  
+B.Tech CSE @ [IILM University, Gurugram]  
+GitHub: [RudrakshSachdev]  
+
+
+
