@@ -48,8 +48,8 @@ An Arduino-based safety system designed to detect **gas leaks** and **flames**, 
 ---
 
 <b> Prototype Image</b>
-![Prototype](images/Prototype_IMG1.png)
-![Prototype](images/Prototype_IMG2.png)
+![Prototype](images/Prototype_IMG1.jpg)
+![Prototype](images/Prototype_IMG2.jpg)
 
 ---
 
