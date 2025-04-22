@@ -42,13 +42,15 @@ An Arduino-based safety system designed to detect **gas leaks** and **flames**, 
 
 ---
 
-<b> Circuit Diagram</b>
+<b> Circuit Diagram </b>
 ![Circuit Diagram](images/Circuit_diagram.png)
 
 ---
 
-<b> Prototype Image</b>
+<b> Prototype Image 1</b>
 ![Prototype](images/Prototype_IMG1.jpg)
+
+<b> Prototype Image 2</b>
 ![Prototype](images/Prototype_IMG2.jpg)
 
 ---
